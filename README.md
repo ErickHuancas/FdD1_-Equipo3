@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 # Equipo 03 - Nombre del curso
+=======
+# Equipo 3 - Fundamentos de Diseño
+>>>>>>> 79012da91d33c83efd086bd2fe61ac7e18ccb00a
 ### Carrera de Ingeniería Ambiental / Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 0X** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 03** del curso **Fundamentos de Diseño 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -30,10 +34,17 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/erick.jpeg" width="90"/> | **Erick Huancas** | Líder del equipo | Innovación social, sostenibilidad |
+<<<<<<< HEAD
 | <img src="/Recursos/Imágenes/Suazo.jpeg" width="90"/> | **Rosa Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/Miguel.jpeg" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/Paloma.jpeg" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/Jeremy.jpeg" width="90"/> | **Jeremy Méndez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+=======
+| <img src="/Recursos/Imágenes/Suazo.jpeg" width="90"/> | **Rose Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/Miguel.jpeg" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Paloma.jpeg" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/Jeremy.jpeg" width="90"/> | **Jeremy Mendez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+>>>>>>> 79012da91d33c83efd086bd2fe61ac7e18ccb00a
 
 ---
 
