@@ -32,7 +32,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Erick Huancas** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Rose Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
