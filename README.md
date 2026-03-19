@@ -1,1 +1,1 @@
-#Equipo 3 - Fundamentos de Diseño
+# Equipo 3 - Fundamentos de Diseño
