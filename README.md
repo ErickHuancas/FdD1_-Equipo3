@@ -29,11 +29,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/erick.png" width="90"/> | **Erick Huancas** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/Miguel.png" width="90"/> | **Rose Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Jeremy.png" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/Suazo.png" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/Paloma.png" width="90"/> | **Jeremy Mendez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Git y GitHub/Recursos/Imágenes/erick.png" width="90"/> | **Erick Huancas** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Git y GitHub/Recursos/Imágenes/Miguel.png" width="90"/> | **Rose Suazo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Git y GitHub/Recursos/Imágenes/Jeremy.png" width="90"/> | **Miguel Ruiz** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Git y GitHub/Recursos/Imágenes/Suazo.png" width="90"/> | **Paloma Velasquez** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Git y GitHub/Recursos/Imágenes/Paloma.png" width="90"/> | **Jeremy Mendez** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
