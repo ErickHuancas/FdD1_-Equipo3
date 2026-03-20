@@ -1,5 +1,5 @@
 # Equipo 03 - Fundamentos de Diseño
-### Carrera de Ingeniería Informática / Industrial  
+### Carrera de Ingeniería Informática, Industrial  y Ambiental
 **Universidad Peruana Cayetano Heredia**
 
 ---
