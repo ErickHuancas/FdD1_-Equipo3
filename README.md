@@ -9,10 +9,14 @@ Somos el **Equipo 03** del curso **Fundamentos de Diseño 2026-1**, conformado p
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 6: Agua Limpia y Saneamiento: Este ODS busca garantizar la disponibilidad de agua potable y su gestión sostenible, ya que se trata de un derecho fundamental; sin embargo, alrededor de 1,800 millones de personas en el mundo aún no tienen acceso a este recurso. Asimismo, incluye el tratamiento de aguas residuales, la reducción de la contaminación hídrica y el acceso a servicios de saneamiento adecuados.
-- ODS 9: Industria, Innovación e Infraestructura: 
-- ODS 12: Producción y Consumo Responsable:
-- ODS 14: Vida Submarina:
+- ODS 6: Agua Limpia y Saneamiento 
+Este ODS busca garantizar la disponibilidad de agua potable y su gestión sostenible, ya que se trata de un derecho fundamental; sin embargo, alrededor de 1,800 millones de personas en el mundo aún no tienen acceso a este recurso. Asimismo, incluye el tratamiento de aguas residuales, la reducción de la contaminación hídrica y el acceso a servicios de saneamiento adecuados.
+- ODS 9: Industria, Innovación e Infraestructura
+Este ODS busca promover infraestructuras resilientes, impulsar la industrialización y fomentar la innovación, claves para el crecimiento económico; sin embargo, aún existen brechas en el acceso a la tecnología, especialmente en África. Cerca de 3 mil millones de personas siguen desconectadas y la falta de infraestructura puede reducir la productividad hasta en un 40%. Además, promueve la investigación científica y el uso de tecnologías limpias para mejorar la eficiencia y reducir el impacto ambiental.
+- ODS 12: Producción y Consumo Responsable
+Se encarga de promover el uso responsable de los recursos y la adecuada gestion de  residuos , debido a que el manejo inadecuado , especialmente de plasticos y desechos de pesca generan un gran impacto negativo en el medio ambiente.
+- ODS 14: Vida Submarina
+Su objetivo consiste en salvaguardar y aprovechar los océanos, mares y recursos marinos de forma sostenible. Su propósito es proteger los ecosistemas acuáticos, disminuir la contaminación, evitar que las especies marinas sean explotadas en exceso y asegurar que los océanos continúen siendo fuentes de vida, comida y bienestar para las generaciones actuales y futuras
 
 ---
 
